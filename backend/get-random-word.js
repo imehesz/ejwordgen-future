@@ -8,7 +8,7 @@
 
 const fs = require("fs")
 
-const = APP_PATH = "/var/www/imstandup.com/ejwordgen-qa/"
+const = APP_PATH = "PATH/TO/APP"
 
 const FILE_ALL_WORDS_PATH           = APP_PATH + ""
 const FILE_ARCHIVED_WORDS_PATH      = APP_PATH + ""
